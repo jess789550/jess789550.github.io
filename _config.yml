@@ -50,8 +50,8 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
-bib_search: true
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -122,12 +122,12 @@ disqus_shortname: # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name:
+    rss_url:
+  - name:
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url:
+        published_date:
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -265,12 +265,12 @@ scholar:
   last_name:
   first_name:
 
-  style: apa
-  locale: en
+  style:
+  locale:
 
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
+  source:
+  bibliography:
+  bibliography_template:
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
