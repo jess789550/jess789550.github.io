@@ -17,7 +17,7 @@
         - Software
         - Service delivery
         - Data science and stats
-        
+
     - title: MSc Bioinformatics
       institution: University of Bath
       year: 2021 - 2022
@@ -34,7 +34,7 @@
       description:
         - Added CNV and splice site tools to pipelines
         - Merged COSHH and Stock DB with Django frontend
-        
+
     - title: Industrial Placement Student
       institution: GSK
       year: 2019 -2020
