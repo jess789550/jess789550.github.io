@@ -74,14 +74,7 @@
     {
       "name": "Bioinformatics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Django",
-        "Machine learning",
-        "Long-read sequencing",
-        "R Shiny",
-        "Nextflow",
-        "DNAnexus"
-      ]
+      "keywords": ["Django", "Machine learning", "Long-read sequencing", "R Shiny", "Nextflow", "DNAnexus"]
     }
   ]
 }
