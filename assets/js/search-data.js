@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{
         id: 'social-github',
         title: 'GitHub',
@@ -42,7 +35,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/JessicaKan", "_blank");
+          window.open("https://www.linkedin.com/in/Jessica-Kan", "_blank");
         },
       },{
       id: 'light-theme',
