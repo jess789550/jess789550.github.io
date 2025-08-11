@@ -23,4 +23,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Trainee Healthcare Scientist working on bioinformatic pipelines and web apps in the NHS.
+Hi there, I'm Jess and I'm a Trainee Healthcare Scientist working on bioinformatic pipelines and web apps in the NHS.
+
+I have worked at 2 hospitals on multiple projects. For example, I added splice site variant callers to a targetd and exome pipeline written using Python Ruffus. To display the results I created an R Shiny app.
+
+I have also merged two databases together integrating the new data into the existing Django frontend. This app allows the user to check stock reagent levels in the laboratory and update associated COSHH assessments.
+
+Also, I converted one of the Python Ruffus pipelines into Nextflow.
+
+Currently, I am working on TMB tools and have learnt how to create Docker images and save them. Additioanlly, I learnt how to write a WDL pipeline and run it on DNAnexus.
