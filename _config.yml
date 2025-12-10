@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Jessica
 middle_name:
-last_name: Kan
+last_name: K
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -85,7 +85,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Jessica Kan # blog_name will be displayed in your blog page
+blog_name: Jessica K # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
