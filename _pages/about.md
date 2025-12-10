@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Trainee Healthcare Scientist (Bioinformatics)
+subtitle: Clinical Scientist (Bioinformatics)
 
 profile:
   align: right
