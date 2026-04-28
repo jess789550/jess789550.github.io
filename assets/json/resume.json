@@ -29,7 +29,7 @@
       "url": "https://www.nhs.uk",
       "startDate": "2022-09-05",
       "endDate": "",
-      "summary": "Added tools to Python Ruffus Pipelines, created an R Shiny app, updated a Django app after merging two databases together",
+      "summary": "Added tools to Python Ruffus Pipelines, created an R Shiny app, updated a Django app after merging two databases together. Collaborated with NHS bioinformaticians on the Community Cloud Project.",
       "highlights": ["Django", "R Shiny", "Python Ruffus"]
     }
   ],
@@ -74,7 +74,7 @@
     {
       "name": "Bioinformatics",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Django", "Machine learning", "Long-read sequencing", "R Shiny", "Nextflow", "DNAnexus"]
+      "keywords": ["Django", "Machine learning", "Long-read sequencing", "R Shiny", "Nextflow", "DNAnexus", "AWS"]
     }
   ]
 }
