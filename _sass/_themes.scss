@@ -79,7 +79,7 @@
 html[data-theme="dark"] {
   color-scheme: dark;
   --global-bg-color: #{$black-color};
-  --global-code-bg-color: #{$code-bg-color-light};
+  --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$white-color};
   --global-text-color-light: #{$white-color};
   --global-theme-color: #{$light-cyan-color};
@@ -90,7 +90,7 @@ html[data-theme="dark"] {
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$white-color};
   --global-divider-color: #424246;
-  --global-card-bg-color: #{$white-color};
+  --global-card-bg-color: #{$grey-900};
   --global-back-to-top-bg-color: rgba(
     #{color.channel($white-color, "red", $space: rgb)},
     #{color.channel($white-color, "green", $space: rgb)},
